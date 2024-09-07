@@ -1,3 +1,12 @@
+-------------------------------instruction  to set up and run application-------------
+
+---> npm init
+---> npm i
+---> To start backend open terminal there ------node server.js-------
+----> to start frontend in terminal --------cd client ----->>npm run dev-----------
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
